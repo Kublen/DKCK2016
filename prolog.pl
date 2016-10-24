@@ -23,17 +23,17 @@ okpaczki(big, rectangular, grey) --> [duza, prostokatna, szara].
 okpaczki(big, rectangular, yellow) --> [duza, prostokatna, zolta].
 okpaczki(big, rectangular, white) --> [duza, prostokatna, biala].
 
-okpaczki(small, round, grey) --> [mala, prostokatna, szara].
-okpaczki(small, round, yellow) --> [mala, prostokatna, zolta].
-okpaczki(small, round, white) --> [mala, prostokatna, biala].
+okpaczki(small, round, grey) --> [mala, okragla, szara].
+okpaczki(small, round, yellow) --> [mala, okragla, zolta].
+okpaczki(small, round, white) --> [mala, okragla, biala].
 
-okpaczki(medium, round, grey) --> [srednia, prostokatna, szara].
-okpaczki(medium, round, yellow) --> [srednia, prostokatna, zolta].
-okpaczki(medium, round, white) --> [srednia, prostokatna, biala].
+okpaczki(medium, round, grey) --> [srednia, okragla, szara].
+okpaczki(medium, round, yellow) --> [srednia, okragla, zolta].
+okpaczki(medium, round, white) --> [srednia, okragla, biala].
 
-okpaczki(big, round, grey) --> [duza, prostokatna, szara].
-okpaczki(big, round, yellow) --> [duza, prostokatna, zolta].
-okpaczki(big, round, white) --> [duza, prostokatna, biala].
+okpaczki(big, round, grey) --> [duza, okragla, szara].
+okpaczki(big, round, yellow) --> [duza, okragla, zolta].
+okpaczki(big, round, white) --> [duza, okragla, biala].
 
 
 rampa(in) --> [rampy wejsciowej]
