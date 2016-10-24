@@ -1,9 +1,3 @@
-zdanie(move(X, Y, Z)) --> orz(X), okpaczki(X, Y), ok_sposobu(X, Z).
-zdanie(move(X, Y, Z)) --> orz(X), ok_sposobu(X, Z), okokier(X, Y).
-
-zdanie() --> 
-zdanie() --> 
-
 
 orz(drive) --> [przenies].
 orz(drive) --> [przewiez].
