@@ -1,0 +1,21 @@
+Inteligentny wózek widłowy
+
+Dialog 1
+U- Podnieś pudełko.
+C- Jakie pudełko?
+U- Koloru czerwonego
+C- Jakiego rozmiaru pudełko? (zakładając, że na scenie jest więcej niż 1 czerwone pudełko)
+U- Małe (lub: Średnie/Wielkie)
+C- Mam małe, czerwone pudełko. Co mam z nim zrobić?
+U- Przenieś je na północną część magazynu 
+C- Na której półce mam je położyć?
+U- Na najwyższej (lub: Na półce z czerwonymi pudełkami)
+
+Dialog 2
+U- Zabierz czarne pudło z regału numer 3
+C- Na regale numer 3 nie ma czarnego pudła
+U- A jakie są?
+C- Są 2 obiekty (lub: Przedmioty). Powiedzieć jak wyglądają? (lub: Opisać ich wygląd?)
+U- Tak (Lub: Zrób to, Słucham) 
+C- Jedno pudełko jest małe, zielone i leży na najniższej półce. Drugie pudełko jest średniej wielkości i jest koloru niebieskiego. Leży na 2 półce od spodu.
+U- W takim razie, zamień pudełka miejcami.
