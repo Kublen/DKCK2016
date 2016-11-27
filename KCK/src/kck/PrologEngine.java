@@ -11,9 +11,9 @@ import org.jpl7.*;
 public class PrologEngine 
 {
            
-    public String get_solution(String word){
+    public static String get_solution(String word){
         
-    	String t1 = "consult('nazwa.pl')"; 
+    	String t1 = "consult('prolog.pl')"; 
     	
         Query q1 = new Query(t1);
         
